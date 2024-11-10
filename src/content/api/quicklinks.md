@@ -25,5 +25,5 @@ Lanyard quicklinks allow you to easily access resources from Discord, such as pr
 
 ### User Icons
 
-`https://api.lanyard.rest/<id>.<file_type>`
+`https://api.lanyard.rest/268156620050006017.png`
 Where `id` is the Discord user ID. `file_type` can be one of: `png`, `gif`, `webp`, `jpg`, or `jpeg`
